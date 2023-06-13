@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UniRecycler</string>
+    <string name="occupation">occupation</string>
+    <string name="age">age</string>
+    <string name="name">name</string>
+</resources>

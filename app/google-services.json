@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572534529738",
+    "project_id": "unirecycler-df021",
+    "storage_bucket": "unirecycler-df021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572534529738:android:252240420fc9f05faede33",
+        "android_client_info": {
+          "package_name": "com.example.unirecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572534529738-g885ro167u7rc5t23ptjo2dvraimbj5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNgq0BgQq0T-g9cPLX7ZTeyynUhJra2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572534529738-g885ro167u7rc5t23ptjo2dvraimbj5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
